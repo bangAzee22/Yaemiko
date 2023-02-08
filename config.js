@@ -53,23 +53,23 @@ global.snh = 'https://nhentai.net/g/365296/'
 //mwehehe:v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085731947500'
+global.pdana = '6282169638085'
 global.povo = '-'
-global.pgopay = '085731947500'
-global.ppulsa = '085731947500'
-global.ppulsa2 = '085749543572'
+global.pgopay = '*'
+global.ppulsa = '6282169638085'
+global.ppulsa2 = '*'
 global.psaweria = 'https://saweria.co.id/oktakc'
 global.fetch = (await import('node-fetch'))
 /*============== NOMOR ==============*/
-global.nomorbot = '6285749543572'
-global.nomorown = '6285731947500'
+global.nomorbot = '6282169638085'
+global.nomorown = '6282169638085'
 global.namebot = 'YaeMiko'
-global.nameown = 'Okta'
+global.nameown = 'Ocobot Scurity'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285731947500', 'Okta🗿!', true]
+  ['6282169638085', 'Azee🗿!', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -114,7 +114,7 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 YaeMiko-MD あ⁩ 」' //Main Watermark
+global.wm = '                「 Azee-MD あ⁩ 」' //Main Watermark
 global.wm2 = 'Yaee🤤'
 global.wm3 = '⫹⫺ ʏᴀᴇᴍɪᴋᴏ'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
