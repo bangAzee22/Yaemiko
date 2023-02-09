@@ -62,9 +62,9 @@ global.psaweria = 'https://saweria.co.id/oktakc'
 global.fetch = (await import('node-fetch'))
 /*============== NOMOR ==============*/
 global.nomorbot = '6282169638085'
-global.nomorown = '6282169638085'
-global.namebot = 'YaeMiko'
-global.nameown = 'Ocobot Scurity'
+global.nomorown = '6283130695796'
+global.namebot = 'Ocobot Scurity'
+global.nameown = 'Bang Azee'
 
 
 /*============== STAFF ==============*/
